@@ -12,8 +12,8 @@ My coursework is organized by academic year for easier navigation.
 
 | Academic Year | Study Year | Coursework |
 |:---:|:---|:---|
-| 2024–2025 | 📘 First Year | [Explore →]([https://github.com/itmoquanmh?tab=repositories&q=Python-Lab](https://github.com/itmoquanmh/First-Year.git)) |
-| 2025–2026 | 📗 Second Year | [Explore →]([https://github.com/itmoquanmh?tab=repositories&q=Second-Year](https://github.com/itmoquanmh/Second-Year.git)) |
+| 2024–2025 | 📘 First Year | [Explore →](https://github.com/itmoquanmh/First-Year.git) |
+| 2025–2026 | 📗 Second Year | [Explore →](https://github.com/itmoquanmh/Second-Year.git) |
 | 2026–2027 | 📙 Third Year | [Explore →](https://github.com/itmoquanmh/Third-Year.git) |
 
 > 🔒 **Note:** Most course repositories are private. This portfolio provides an overview of my academic work, while access to source code may be restricted.
