@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🎓 ITMO University | Academic Portfolio
 
-<!--
-**itmoquanmh/itmoquanmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Mai Hoang Quan** 👋
 
-Here are some ideas to get you started:
+I'm a student at **ITMO University**, with a strong interest in **Robotics, Software Engineering, and Intelligent Systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub account is dedicated to documenting my academic journey, including coursework, laboratory assignments, and university projects.
+
+## 📚 Academic Journey
+
+My coursework is organized by academic year for easier navigation.
+
+| Academic Year | Study Year | Coursework |
+|:---:|:---|:---|
+| 2024–2025 | 📘 First Year | [Explore →](https://github.com/itmoquanmh?tab=repositories&q=Python-Lab) |
+| 2025–2026 | 📗 Second Year | [Explore →](https://github.com/itmoquanmh?tab=repositories&q=Second-Year) |
+| 2026–2027 | 📙 Third Year | [Explore →](https://github.com/itmoquanmh/Third-Year) |
+
+> 🔒 **Note:** Most course repositories are private. This portfolio provides an overview of my academic work, while access to source code may be restricted.
+
+## 🔬 Academic Interests
+
+- 🤖 **Robotics & Autonomous Systems**
+- 💻 **Software Engineering** — C++ & Python
+- 📐 **Mathematics & Computational Methods**
+- 🧠 **Machine Learning & Artificial Intelligence**
+
+## 🚀 Engineering Portfolio
+
+My independent projects, robotics experiments, and technical work are available on my main GitHub profile.
+
+**[→ Explore my Engineering Portfolio](https://github.com/quanmh25)**
+
+---
+
+<sub>🎓 ITMO University · Learning, building, and exploring technology.</sub>
